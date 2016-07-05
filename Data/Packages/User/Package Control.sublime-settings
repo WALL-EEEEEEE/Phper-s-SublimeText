@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoAligner",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorcoder",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"MarkdownCodeBlockWrapper",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownTOC",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeEnhancedUtilitiesSet",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"Terminality",
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized",
+		"ThemeScheduler",
+		"TrailingSpaces",
+		"Trimmer",
+		"VintageES",
+		"Vn Ime"
+	]
+}
