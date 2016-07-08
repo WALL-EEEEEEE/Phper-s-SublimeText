@@ -203,23 +203,7 @@
 					"file": "/D/Developer/WorkPlace/Blog/Editor/Sublime Serials-My Configuration On Sublime.md",
 					"settings":
 					{
-						"buffer_size": 441,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Snippets/StylishTitleMarkdown.sublime-snippet",
-					"settings":
-					{
-						"buffer_size": 340,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Developer/WorkPlace/Blog/Mathematical model/Mathematical Model Series- BP Neural NetWork.md",
-					"settings":
-					{
-						"buffer_size": 997,
+						"buffer_size": 527,
 						"line_ending": "Windows"
 					}
 				}
@@ -240,6 +224,82 @@
 						":w - Save"
 					],
 					[
+						":W",
+						":w - Save"
+					],
+					[
+						"table",
+						"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+					],
+					[
+						":En",
+						"Table Editor: Enable 'align_number_right' for current view"
+					],
+					[
+						"Package Control: Isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Emoji",
+						"Emoji: Insert Emoji"
+					],
+					[
+						"Emojie",
+						"Emoji: Insert Emoji"
+					],
+					[
+						"emoji",
+						"Emoji: Insert Emoji"
+					],
+					[
+						":emo",
+						"Emoji: Insert Emoji"
+					],
+					[
+						"Package Control: Inst	",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wra",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"Syntax",
+						"Set Syntax: Markdown"
+					],
+					[
+						":i",
+						"MarkdownTOC:Insert TOC"
+					],
+					[
+						":u",
+						"MarkdownTOC:Update TOC"
+					],
+					[
+						"Ste Mardow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"set ",
+						"Set Syntax: Markdown"
+					],
+					[
 						":I",
 						"MarkdownTOC:Insert TOC"
 					],
@@ -252,19 +312,7 @@
 						"MarkdownTOC:Insert TOC"
 					],
 					[
-						":W",
-						":w - Save"
-					],
-					[
 						"Package Control: Instal",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: Inst",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
@@ -288,7 +336,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 514.0
+				"width": 522.0
 			},
 			"console":
 			{
@@ -312,24 +360,36 @@
 				"/D/Developer/WorkPlace",
 				"/D/Developer/WorkPlace/.metadata",
 				"/D/Developer/WorkPlace/Blog",
-				"/D/Developer/WorkPlace/Blog/Editor",
-				"/D/Developer/WorkPlace/Blog/Mathematical model"
+				"/D/Developer/WorkPlace/Blog/Tattle to life"
 			],
 			"file_history":
 			[
+				"/D/Developer/WorkPlace/Blog/Tattle to life/Tattle to life Series- My-tomato-arragement.md",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Snippets/CaptialIntentMarkdown.sublime-snippet",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/linkMarkdown.sublime-snippet",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Installed Packages/Emoji Code.sublime-package",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Installed Packages/GithubEmoji.sublime-package",
+				"/D/Developer/WorkPlace/Blog/Tattle to life/test.html",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Markdown.sublime-settings",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Developer/WorkPlace/Blog/life tattle",
+				"/D/迅雷下载/learnvimscriptthehardway-sample.pdf",
+				"/C/Users/JohansRes/vim-for-php/.vimrc",
+				"/D/WindowsSoftWare/Vim-maximum-awesome/vimrc",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/C/Users/JohansRes/vim-for-java/.vimrc",
+				"/D/WindowsSoftWare/Vim-maximum-awesome/vimrc.bundles",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Snippets/StylishTitleMarkdown.sublime-snippet",
+				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Snippets/StylishTitle-Markdown.sublime-snippets",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Distraction Free.sublime-settings",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/XML.sublime-settings",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/MarkdownTOC.sublime-settings",
-				"/C/Users/JohansRes/vim-for-php/.vimrc",
-				"/C/Users/JohansRes/vim-for-java/.vimrc",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
 				"/D/Developer/WorkPlace/Personal-Workplace-Temp/Jotting/account.doc",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/MarkdownEditing/README.md",
 				"/D/Developer/WorkPlace/Blog/Mathematical model/Mathematical Model Series- BP Neural NetWork.md",
-				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/JohansRes/_viminfo",
-				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
 				"/D/WindowsSoftWare/Sublime Text 3/Data/Packages/Terminality/README.md",
 				"/D/WindowsSoftWare/Oracle/product/11.2.0/dbhome_1/sqldeveloper/sqldeveloper/bin/sqldeveloper.conf"
@@ -350,6 +410,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"comp",
 					"colorscheme",
 					"theme",
 					"runtimepath",
@@ -390,15 +451,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 441,
+								"buffer_size": 527,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										283,
-										283
+										270,
+										270
 									]
 								],
 								"settings":
@@ -419,46 +480,46 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -469,11 +530,11 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (Colorcoded) (SL) (Colorcoded) (Colorcoded) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
 									"colorcode": true,
@@ -485,207 +546,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/WindowsSoftWare/Sublime Text 3/Data/Packages/User/Snippets/StylishTitleMarkdown.sublime-snippet",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 340,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										77,
-										77
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"colorcode": true,
-									"syntax": "Packages/XML/XML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Developer/WorkPlace/Blog/Mathematical model/Mathematical Model Series- BP Neural NetWork.md",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 997,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										169,
-										105
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor.tmTheme",
-									"colorcode": true,
-									"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 66.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -727,7 +587,7 @@
 				"height": 120.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,567,28,28,684",
+			"position": "0,2,3,-32000,-32000,-1,-1,580,41,41,697",
 			"project": "",
 			"replace":
 			{
@@ -769,7 +629,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 315.0,
+			"side_bar_width": 50.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
