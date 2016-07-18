@@ -1,4 +1,9 @@
 
 [submodule "Data\\Packages\\mdTodo"]
-	path = Data\\Packages\\mdTodo
+	path = D:\\WindowsSoftWare\\Sublime Text 3\\Data\\Packages
 	url = https://github.com/groenewege/mdTodo.git
+
+[submodule "Data\\Packages\\phpcs_requires\\PHP-CS-Fixer"]
+	
+        path = Data\\Packages\\phpcs_requires\\PHP-CS-Fixer
+	        url = https://github.com/FriendsOfPHP/PHP-CS-Fixer.git
