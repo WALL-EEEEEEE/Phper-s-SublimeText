@@ -1,0 +1,3 @@
+[submodule "Data\\Packages\\mdTodo"]
+	path = Data\\Packages\\mdTodo
+	url = https://github.com/groenewege/mdTodo.git
