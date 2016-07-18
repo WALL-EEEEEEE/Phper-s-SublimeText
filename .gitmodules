@@ -7,3 +7,6 @@
 	
         path = Data\\Packages\\phpcs_requires\\PHP-CS-Fixer
 	        url = https://github.com/FriendsOfPHP/PHP-CS-Fixer.git
+[submodule "Data/Packages/markTodo"]
+	path = Data/Packages/markTodo
+	url = https://github.com/groenewege/mdTodo.git
