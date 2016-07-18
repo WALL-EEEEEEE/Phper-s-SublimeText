@@ -134,7 +134,7 @@
             "codeintel_selected_catalogs": ["jQuery"]
         },
         "PHP": {
-            "php": "/Applications/MAMP/bin/php/php5.5.3/bin/php",
+            "php": "/Applications/MAMP/bin/php/php5.5.3/php.exe",
             "codeintel_scan_extra_dir": [],
             "codeintel_scan_files_in_project": true,
             "codeintel_max_recursive_dir_depth": 15,

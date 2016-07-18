@@ -15,36 +15,6 @@
 	<key>settings</key>
 	<array>
 		<dict>
-			<key>name</key>
-			<string>mon_color</string>
-			<key>scope</key>
-			<string>mcol_338DCDFF</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#338DCDFF</string>
-				<key>caret</key>
-				<string>#0F2A3DFF</string>
-				<key>foreground</key>
-				<string>#0F2A3DFF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>mon_text_color</string>
-			<key>scope</key>
-			<string>mcol_text_338DCDFF</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#04202aFF</string>
-				<key>caret</key>
-				<string>#0F2A3DFF</string>
-				<key>foreground</key>
-				<string>#338DCDFF</string>
-			</dict>
-		</dict>
-		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -4738,17 +4708,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>SublimeLinter Gutter Mark</string>
-			<key>scope</key>
-			<string>sublimelinter.gutter-mark</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>SublimeLinter Warning</string>
 			<key>scope</key>
 			<string>sublimelinter.mark.warning</string>
@@ -4756,6 +4715,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#DDB700</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>

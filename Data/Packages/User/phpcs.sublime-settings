@@ -1,0 +1,48 @@
+{
+// Path to php on windows installation
+// This is needed as we cannot run phars on windows, so we run it through php
+"phpcs_php_prefix_path": "D:\\WindowsSoftWare\\php53\\php.exe",
+
+// This is the path to the bat file when we installed PHP_CodeSniffer
+"phpcs_executable_path": "D:\\WindowsSoftWare\\Sublime Text 3\\Data\\Packages\\phpcs_requires\\phpcs.bat",
+
+// PHP-CS-Fixer settings
+// Don't want to auto fix issue with php-cs-fixer
+"php_cs_fixer_on_save": false,
+
+// Show the quick panel
+"php_cs_fixer_show_quick_panel": true,
+
+// The fixer phar file is stored here:
+"php_cs_fixer_executable_path": "D:\\WindowsSoftWare\\Sublime Text 3\\Data\\Packages\\phpcs_requires\\phpcs_fixer.bat",
+
+
+// PHP Linter settings
+// Yes, lets lint the files
+"phpcs_linter_run": true,
+
+// And execute that on each file when saved (php only as per extensions_to_execute)
+"phpcs_linter_command_on_save": true,
+
+"phpcs_commands_to_php_prefix": ["Linter"],
+
+// Path to php
+"phpcs_php_path": "D:\\WindowsSoftWare\\php53\\php.exe",
+
+"phpcbf_executable_path": "D:\\WindowsSoftWare\\Sublime Text 3\\Data\\Packages\\phpcs_requires\\php_beautifier.bat",
+// This is the regex format of the errors
+"phpcs_linter_regex": "(?P<message>.*) on line (?P<line>\\d+)",
+
+
+// PHP Mess Detector settings
+// Not turning on the mess detector here
+"phpmd_run": true,
+"phpmd_command_on_save" : true,
+"phpmd_executable_path" : "D:\\WindowsSoftWare\\Sublime Text 3\\Data\\Packages\\phpcs_requires\\phpmd.bat",
+"phpcs_additional_args": {
+        "--standard": "PSR2",
+        "-n": ""
+    }
+
+
+}
