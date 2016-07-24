@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Colorcoder/Solarized (Dark) (Colorcoded) (SL) (Colorcoded).tmTheme",
 	"font_size": 11,
+    "font_face": "monaco",
 	"ignored_packages":
 	[
 	],
