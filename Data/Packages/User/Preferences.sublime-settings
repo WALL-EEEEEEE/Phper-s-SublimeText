@@ -1,7 +1,23 @@
 {
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip"
+	],
 	"color_scheme": "Packages/Colorcoder/Solarized (Dark) (Colorcoded) (SL) (Colorcoded).tmTheme",
-	"font_size": 11,
-    "font_face": "monaco",
+	"font_face": "monaco",
+	"font_size": 10,
 	"ignored_packages":
 	[
 	],

@@ -35,6 +35,7 @@
 		"SublimeEnhancedUtilitiesSet",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
+		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
 		"SublimeREPL",
 		"Table Editor",
