@@ -1,0 +1,12 @@
+<snippet>
+ <content><![CDATA[
+ 	
+		:: ${1:Descriptions}
+		:: Author: ${2:JohansRes}
+		:: Date  : ${3:Datetime}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>AuthorInfo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.dosbatch</scope>
+</snippet>

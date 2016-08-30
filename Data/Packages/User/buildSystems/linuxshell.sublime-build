@@ -1,0 +1,5 @@
+{
+	"cmd": ["bash","$file"],
+	"file_regex":"sh$",
+	"selector":"source.shell",
+}
